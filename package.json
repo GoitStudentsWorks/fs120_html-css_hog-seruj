@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./",
+    "build": "vite build --base=/fs120_html-css_hog-seruj/",
     "preview": "vite preview"
   },
   "devDependencies": {
